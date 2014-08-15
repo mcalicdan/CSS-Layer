@@ -1,0 +1,22 @@
+h1 {
+  color: black;
+  text-align: center;
+  margin: none;
+}
+body {
+  font-family:  Arial, Verdana sans-serif;
+  color:  white;
+}
+a:hover{
+  color: #66CCFF;
+  font-weight: bold;
+  text-decoration: none; ;
+}
+ul {
+  font-weight: 900;
+  color: black;
+  text-align: center;
+  list-style: none;
+}
+
+
